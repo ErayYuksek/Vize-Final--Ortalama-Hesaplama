@@ -1,0 +1,11 @@
+C:\Users\erayy\source\repos\Ortalama hesaplama\bin\Debug\Ortalama hesaplama.exe.config
+C:\Users\erayy\source\repos\Ortalama hesaplama\bin\Debug\Ortalama hesaplama.exe
+C:\Users\erayy\source\repos\Ortalama hesaplama\bin\Debug\Ortalama hesaplama.pdb
+C:\Users\erayy\source\repos\Ortalama hesaplama\obj\Debug\Ortalama hesaplama.csproj.AssemblyReference.cache
+C:\Users\erayy\source\repos\Ortalama hesaplama\obj\Debug\Ortalama hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\erayy\source\repos\Ortalama hesaplama\obj\Debug\Ortalama_hesaplama.Form1.resources
+C:\Users\erayy\source\repos\Ortalama hesaplama\obj\Debug\Ortalama_hesaplama.Properties.Resources.resources
+C:\Users\erayy\source\repos\Ortalama hesaplama\obj\Debug\Ortalama hesaplama.csproj.GenerateResource.cache
+C:\Users\erayy\source\repos\Ortalama hesaplama\obj\Debug\Ortalama hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\erayy\source\repos\Ortalama hesaplama\obj\Debug\Ortalama hesaplama.exe
+C:\Users\erayy\source\repos\Ortalama hesaplama\obj\Debug\Ortalama hesaplama.pdb
